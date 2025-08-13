@@ -43,11 +43,11 @@
 
   </div>
 
-  <!-- <x-ai.face-detector
+  <x-ai.face-detector
     model-path="/models"
     :with-landmarks="true"
     :with-expressions="true"
     input-size="320"
     score-threshold="0.5"
-  /> -->
+  />
 @endsection

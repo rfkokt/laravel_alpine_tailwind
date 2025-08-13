@@ -8,8 +8,8 @@ Tidak ada frontend terpisah — semua view dikelola menggunakan Blade template L
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/rfkokt/laravel_alpine_tailwind.git
+cd laravel_alpine_tailwind
 ```
 
 ---
